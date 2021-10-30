@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Miguel-Ferniza
-- 👀 I’m interested in ... family time, woodworking, DotA, WoW, Javascript!
+- 👀 I’m interested in ... family time, woodworking, DotA, WoW, and Javascript!
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me ... fernizam@gmail.com
-
+- 😁 One day I hope to be good enough with this coding thing to help Soldiers get their finances in order.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 <!---
