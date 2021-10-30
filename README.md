@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... family time, woodworking, DotA, WoW, Javascript!
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me ... fernizam@gmail.com
-- 
+
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 <!---
